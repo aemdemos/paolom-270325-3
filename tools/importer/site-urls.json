@@ -1,0 +1,1069 @@
+{
+  "originUrl": "https://business.x.com",
+  "lastCrawled": "https://business.x.com/en.sitemap.xml",
+  "urls": [
+    {
+      "url": "https://business.x.com/en",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/ads-best-practices",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/analytics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/branded-notifications",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-creator",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/amplify-pre-roll",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-installs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/app-reengagements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/engagements",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/reach",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/video-views",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-conversions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/campaign-types/website-traffic",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/carousels",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/formats",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/get-started-with-twitter-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/measurement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/become-a-partner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/adaptly",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/amobee",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/animoto",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/social-database",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/partners/find-a-partner/wiseblue",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/advertising/tweet-composer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/basics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/basics/community-management",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/basics/get-your-business-started-with-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/basics/intro-x-for-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/basics/organic-best-practices",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/a-new-level-of-control-for-x-advertisers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/amplify-pre-roll-how-to-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/brands-enhance-interaction-with-twitter-branded-features",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/buckle-up-advertisers-2024-on-x-was-good-for-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/celebrating-small-business-saturday",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/combat-holiday-market-challenges-and-target-eager-shoppers-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/connect-with-big3-basketball-live-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/connect-your-brand-to-the-big-moments-of-2024-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/create-and-launch-sales-campaigns-in-minutes",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/enabling-more-small-businesses-to-grow-using-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/introducing-vertical-video-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/introducing-x-ads-academy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/q5-unlocking-the-hidden-potential-of-your-marketing-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/q5-xs-best-kept-secret",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/reach-a-ready-to-buy-audience-this-back-to-school-season-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/summer-of-sports-2024-massive-weekend-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/super-bowl-lviii-smashes-records-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/video-tab-launch",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/x-at-ces-2025",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/x-is-committed-to-small-and-medium-businesses",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/x-paris-olympics-2024-advertising-opportunities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/blog/x-users-are-ready-for-this-2024-holiday-season",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/account-login-and-setup",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/ads-account-creation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics/ads-currency",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics/advertiser-credits",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics/billing-invoices",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics/credit-limits",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/billing-basics/value-added-tax-vat-information",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/account-setup/professional-accounts",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/about-twitter-ads-approval",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/about-x-ads-offboarding",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/adult-or-sexual-products-and-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/alcohol-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/alcohol-content/alcohol-content-terms",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/deceptive-and-fraudulent-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/drugs-and-drug-paraphernalia",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/drugs-and-drug-paraphernalia/cannabis-thc-advertiser-attestation",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/financial-services",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/financial-services/blockchain-games-terms-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/financial-services/cryptocurrrency-terms-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/gambling-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/gambling-content/gaming-terms-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/hate-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/healthcare",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/inappropriate-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content/faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content/news-exemption",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content/political-ads-advertising-terms-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content/political-ads-disclosure",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/quality-policy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/software-downloads-policy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/state-media",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/tobacco-and-tobacco-accessories",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/tobacco-and-tobacco-accessories/tobacco-and-tobacco-accessories-terms-and-conditions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/unauthorized-ticket-sales",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/weapons-and-weapon-accessories",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/ads-policy-update-log",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/brand-safety",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/product-policies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/product-policies/ads-transparency",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/product-policies/brand-safety-policy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/product-policies/interest-based-opt-out-policy",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/ads-policies/product-policies/trend-takeover-guidelines",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/ad-groups",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/ads-editor",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/ads-editor/ads-editor-troubleshooting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/ads-editor/syntax-sheet",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/copying-a-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/deleting-a-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/intro-to-optimizing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/optimizing-app-campaigns",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/optimizing-website-traffic-campaigns",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/quick-replies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/scheduled-tweets",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-editing-and-optimization/twitter-ads-companion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/ab-testing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/aggregated-measurement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/audience-measurement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/campaign-dashboard",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/cm360-integration",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/common-analytics-discrepancies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites/about-conversion-tracking",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/export-csv-definitions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/pixel-helper",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-measurement-and-analytics/tweet-activity-dashboard",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/ad-naming",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/audience-estimate",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-dates-and-budget",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/audience-expansion",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/conversation-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/custom-audiences",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/custom-audiences/app-activity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/custom-audiences/lists",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/custom-audiences/website-activity",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/device-carrier-and-new-mobile-user-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/do-not-reach-lists",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/geo-gender-and-language-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/interest-and-follower-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/keyword-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/lookalike-audiences",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/optimized-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/post-engager-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaign-targeting/sensitivity-settings",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/campaigns-101",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/conversation-buttons",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-dynamic-product-ads-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-keywords-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-pre-roll-views-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-reach-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-video-views-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-video-views-campaign/upload-a-video",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-a-website-traffic-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-an-app-installs-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-an-app-installs-campaign/app-manager",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-an-app-installs-campaign/mobile-app-measurement-and-attribution",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-an-app-reengagement-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-an-engagements-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/create-website-conversions-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/creative-ad-specifications",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/creative-ad-specifications-old",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/direct-messages",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/frequency-caps",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/quick-promote",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/campaign-setup/x-ads-manager",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview/ads-pricing",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview/twitter-ads-glossary",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview/twitter-ios14-resource-center",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview/what-are-promoted-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/overview/what-are-promoted-ads/promoted-only-tweets",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/shopping-policies",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/ads_tweets_faq",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/bidding-and-auctions-faqs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/faqs-about-brand-surveys",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/faqs-about-insight-surveys",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/faqs-about-pixels",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/how-x-ads-work",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/multi-user-login-faq",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/time-zones-on-twitter-ads-faq",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/twitter-surveys-faq",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/help/troubleshooting/why-arent-my-ads-receiving-impressions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/amplify-pre-roll",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/amplify-sponsorships",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/media-studio",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/media-studio/livecut",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/media-studio/producer",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/spotlight-takeovers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/timeline-takeovers",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/products/vertical-video-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/connect-playbook",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/get-started-with-twitter-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/guides-and-webinars",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/guides-and-webinars/gen-z-playbook",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/guides-and-webinars/webinars",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/guides-and-webinars/website-tag-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/holiday",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/mobile-app-advertising-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/performance-advertising-hub",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/small-business",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/website-campaign-guide",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/website-campaign-guide/build",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/website-campaign-guide/optimize",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/website-campaign-guide/target",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/website-campaign-guide/track",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources/x-marketing-calendar",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources1",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources1/overview",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/resources1/overview/x-ads-glossary",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/search",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/aeromexico",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/al-jazeera-driving-arab-engagement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/al-rajhi-capital-boosting-awareness-and-engagement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/codefinity_approach_to_driving_conversions",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-alat-launched-on-x-and-achieved-global-attention",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-bitvavo-acquired-new-users-with-app-installs",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-carrefour-drove-reach-and-engagement-with-collection-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-dior-brought-the-runway-to-x-with-collection-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-ingei-informa-used-x-for-their-economic-census-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-jarir-bookstore-boosted-site-visits-with-collection-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-la-roche-posay-colombia-connected-with-fep",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-mack-weldon-maximized-roas-with-x-shopify-integration",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-monshaat-achieved-mass-awareness-with-vertical-video-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-new-murabba-amplified-its-global-brand",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-range-rover-jsr-drove-quality-leads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-riyadh-expo-drove-mass-awareness-with-takeovers-and-branded-features",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-samsung-launched-galaxy-s24-with-vertical-video-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-saudi-tourism-authority-drove-efficient-site-visits-on-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-sky-tapped-into-nostalgia-to-promote-sky-glass",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-slidebelts-used-optimized-targeting",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-the-chefz-drove-awareness-for-eid-al-fitr",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-thursday-boots-drove-awareness-with-vertical-video-ads",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/how-zox-drove-efficient-purchases-with-x-shopify-integration",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/iz_banking_experience_awareness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/malath-insurance-driving-engagement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/mcdonalds-uruguay-efficient-advertising",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/meitav_investment_house_takeover_world_of_opportunities",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/monshaat-boosting-participation-biban24-forum",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/naranja-x-ios-success-story",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/nexters_achieves_outstanding_roas_sales_campaigns",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/on-running-wco-campaign-strategy-on-twitter",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/osn-plus-drive-awareness-for-hotd-season-2",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/pedidosya-copa-america-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/rimac-automobili-ignites-global-excitement",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/schneider-beer-argentina-copa-america",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/sports-boulevard-boosting-awareness",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/superbet_scores_big_in_bcf_hashmoji",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/the-national-lottery-fueling-team-gb-success",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/three-uk-mental-health-awareness-campaign",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/unlocking-humor-with-naranja-x",
+      "source": "SITEMAPS"
+    },
+    {
+      "url": "https://business.x.com/en/success-stories/x-youtube-partner-to-launch-customized-ad-experience-to-promote-nfl-sunday-ticket-and-youtube-tv",
+      "source": "SITEMAPS"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
